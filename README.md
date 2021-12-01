@@ -1,0 +1,1 @@
+My solutions to the advent of code 2021 coding challenges https://adventofcode.com
