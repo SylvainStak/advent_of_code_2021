@@ -73,8 +73,6 @@ def getLastToWinFinalScore():
                             completed_scores.append(sumUnmarkedNumbers(input_boards[selected_board]) * int(bingo_number))
 
     return completed_scores[len(completed_scores)-1]
-                            
-                            
 
 # Part 1
 print(getFinalScore())
